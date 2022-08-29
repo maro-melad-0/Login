@@ -1,0 +1,35 @@
+*{
+    color: lightseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+section h1{
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+}
+
+form input{
+    background-color: lightseagreen;
+    font-size: 25px;
+    padding: 10px;
+    color: black;
+    margin: 5px;
+
+}
+
+
+#zer{
+    padding: 10px 98px;
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    color: lightseagreen;
+}
